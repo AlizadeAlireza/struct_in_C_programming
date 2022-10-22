@@ -11,7 +11,7 @@ in C programming :
     after declaring our struct out of main() scope,
     we can use it in main() and make a lot of different group of that struct.
 
-### display our outputs
+### display our outputs & receive our inputs
 
     for display we can using printf() and for input we can use scanf().
 
