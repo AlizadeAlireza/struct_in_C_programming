@@ -53,4 +53,4 @@ in C programming :
 
 for this we use this bash command:
     `g++ <stuct.c>`
-    `./aout`
+    `./a.out`
