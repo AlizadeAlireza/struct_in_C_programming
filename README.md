@@ -11,11 +11,11 @@ in C programming :
     after declaring our struct out of main() scope,
     we can use it in main() and make a lot of different group of that struct.
 
-### display our outputs & receive our inputs
+### display our outputs & receive our inputs : 
 
     for display we can using printf() and for input we can use scanf().
 
-### string issue
+### string issue : 
 
     strings in C are actually an array of characters, and unfortunately, we can't assign a value to an array:
 
@@ -42,7 +42,7 @@ in C programming :
     struct manKind s3;
     s3 = s2;
 
-### modify values
+### modify values : 
 
     after declare the struct we can use the variables and equal them to our arbitrary values.
 
