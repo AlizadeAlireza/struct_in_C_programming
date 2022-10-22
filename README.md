@@ -1,4 +1,4 @@
-## struct
+# struct
 
 in C programming :
 
