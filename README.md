@@ -11,6 +11,8 @@ in C programming :
     after declaring our struct out of main() scope,
     we can use it in main() and make a lot of different group of that struct.
 
+### display our outputs
+
     for display we can using printf() and for input we can use scanf().
 
 ### string issue
