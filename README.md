@@ -48,3 +48,9 @@ in C programming :
 
     - s1.firstLetterOfName ='a'; ---> is defined
      s1.firstLetterOfName ='b'; ---> modify to b
+     
+### compile the code : 
+
+for this we use this bash command:
+    `g++ <stuct.c>`
+    `./aout`
