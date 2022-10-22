@@ -37,7 +37,7 @@ in C programming :
 
 ### copy struct:
 
-    - declare a struct and use the values.
+    declare a struct and use the values.
 
     struct manKind s3;
     s3 = s2;
