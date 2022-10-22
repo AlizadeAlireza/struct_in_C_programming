@@ -52,5 +52,7 @@ in C programming :
 ### compile the code : 
 
 for this we use this bash command:
+
     `g++ <stuct.c>`
+    
     `./a.out`
